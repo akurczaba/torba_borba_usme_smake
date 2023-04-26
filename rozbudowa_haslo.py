@@ -26,3 +26,4 @@ if haslo == "dupa":
 else:
     print("bledne haslo")
 
+#nowa galaz tutaj
