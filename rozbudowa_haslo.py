@@ -25,4 +25,7 @@ if haslo == "dupa":
             print("Nie możesz założyć konta")
 else:
     print("bledne haslo")
+    
+    print("lol")
+    
 
