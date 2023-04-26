@@ -30,3 +30,4 @@ else:
     print("lol")
     
 
+#nowa galaz tutaj
