@@ -20,7 +20,7 @@ if haslo == "dupa":
         print("Masz zgodę rodziców?")
         zgoda = input()
         if zgoda == "tak":
-            print("Możesz założyć konto")
+            print("Możesz założyć konto i wyjść z programu.") #zmiana tutaj
         elif potwierdzenie == "nie":
             print("Nie możesz założyć konta")
 else:
