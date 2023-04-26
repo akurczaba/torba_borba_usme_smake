@@ -6,6 +6,7 @@ haslo = input()
 if haslo == "dupa":
     print("Dobrze! Wpisz hasło po raz drugi:")
     haslo = input()
+    vhdvgbs
 else:
     print("Złe hasło. Wpisz ponownie:")
     haslo = input()  
